@@ -7,6 +7,7 @@ Hi there! I'm a **Senior Backend Developer** driven by a passion for crafting **
 - 🚀 Building scalable backend systems for modern web applications.
 - 📦 Containerizing workloads with Docker and Kubernetes.
 - 🌐 Exploring cutting-edge backend technologies.
+
 When I'm not coding, you can find me exploring new frameworks, sharing knowledge, or diving into DevOps.
 
   
