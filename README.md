@@ -38,6 +38,9 @@ When I'm not coding, you can find me exploring new frameworks, sharing knowledge
 
 
 ###
-![snake gif](https://github.com/brahimrizqHireme/brahimrizqHireme/blob/output/github-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brahimrizqHireme/brahimrizqHireme/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brahimrizqHireme/brahimrizqHireme/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/brahimrizqHireme/brahimrizqHireme/output/github-snake.svg" />
+</picture>
 ###
