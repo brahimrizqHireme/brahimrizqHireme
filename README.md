@@ -38,7 +38,6 @@ When I'm not coding, you can find me exploring new frameworks, sharing knowledge
 
 
 ###
-<br clear="both">
-![snake gif](https://github.com/brahimrizqHireme/brahimrizqHireme/blob/output/snake.svg)
+![snake gif](https://github.com/brahimrizqHireme/brahimrizqHireme/blob/output/github-snake.svg)
 
 ###
