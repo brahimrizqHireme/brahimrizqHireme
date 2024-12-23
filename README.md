@@ -26,7 +26,6 @@ When I'm not coding, you can find me exploring new frameworks, sharing knowledge
       <li>🌐 Backend architecture discussions.</li>
       <li>🤝 Networking and collaborations.</li>
     </ul>
-    <blockquote><p>Code is my craft; let’s build something amazing together</p></blockquote>
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahimrizqHireme&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
